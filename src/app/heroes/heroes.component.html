@@ -1,0 +1,15 @@
+
+<h2>{{errormessage}}</h2>
+<h2>My Heroes</h2>
+
+<ul class="heroes">
+  <li *ngFor="let hero of heroes" (click)="selectHero(hero)"
+    [class.selected]="hero===selectedHero">
+  <!-- <a routerLink="/detail/{{hero.id}}">
+    <span class="badge">{{ hero.id }}</span>{{ hero.name }}
+  </a>   -->
+  <span class="badge">{{ hero.id }}</span>{{ hero.name }}
+  </li>
+</ul>
+
+<p *ngIf="selectedHero">{{selectedHero.name}}</p>

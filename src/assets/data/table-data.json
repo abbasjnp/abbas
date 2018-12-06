@@ -1,0 +1,15 @@
+[  
+    { "id": 11, "name": "Mr. Nice","address":"Noida"},
+    { "id": 12, "name": "Narco","address":"Noida" },
+    { "id": 13, "name": "Bombasto","address":"Noida" },
+    { "id": 14, "name": "Celeritas","address":"Noida" },
+    { "id": 15, "name": "Magneta","address":"Noida" },
+    { "id": 16, "name": "RubberMan","address":"Noida" },
+    { "id": 17, "name": "Dynama","address":"Noida" },
+    { "id": 18, "name": "Dr IQ","address":"Noida" },
+    { "id": 19, "name": "Magma","address":"Noida" },
+    { "id": 20, "name": "Tornado","address":"Noida" },
+    { "id": 21, "name": "Abbas","address":"Noida" },
+    { "id": 22, "name": "Ramakant","address":"Noida" }
+  
+  ]
